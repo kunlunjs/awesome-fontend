@@ -1,0 +1,3 @@
+[submodule "awesome-fonted"]
+	path = awesome-fonted
+	url = https://github.com/turing-fe/awesome-fontend.git
