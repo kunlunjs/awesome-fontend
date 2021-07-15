@@ -77,7 +77,7 @@
 [commits4]: https://github.com/marktext/marktext/commits
 [commits5]: https://github.com/notable/notable/commits
 
->1. [Typora](https://typora.io/)<br>
+1. [Typora](https://typora.io/)<br>
   非开源，Beta期间免费，比较成熟。
->2. [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)<br>
+2. [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)<br>
   作业部落出品，专业性也很强。甚至支持 vim 模式。可以作为很好的在线编辑工具。
